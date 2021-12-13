@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        ::::::::            */
+/*   ft_memmove.c                                       :+:    :+:            */
+/*                                                     +:+                    */
+/*   By: qfrederi <qfrederi@student.codam.nl>         +#+                     */
+/*                                                   +#+                      */
+/*   Created: 2021/12/13 16:38:30 by qfrederi      #+#    #+#                 */
+/*   Updated: 2021/12/13 16:38:30 by qfrederi      ########   odam.nl         */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
 static void	ft_dstswitch(char *dst, const void *src, size_t len)

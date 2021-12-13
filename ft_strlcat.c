@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        ::::::::            */
+/*   ft_strlcat.c                                       :+:    :+:            */
+/*                                                     +:+                    */
+/*   By: qfrederi <qfrederi@student.codam.nl>         +#+                     */
+/*                                                   +#+                      */
+/*   Created: 2021/12/13 16:39:55 by qfrederi      #+#    #+#                 */
+/*   Updated: 2021/12/13 16:39:56 by qfrederi      ########   odam.nl         */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
 size_t	ft_strlcat(char *dst, const char *src, size_t dstsize)

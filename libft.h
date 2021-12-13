@@ -1,5 +1,17 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        ::::::::            */
+/*   libft.h                                            :+:    :+:            */
+/*                                                     +:+                    */
+/*   By: qfrederi <qfrederi@student.codam.nl>         +#+                     */
+/*                                                   +#+                      */
+/*   Created: 2021/12/13 16:43:35 by qfrederi      #+#    #+#                 */
+/*   Updated: 2021/12/13 16:43:40 by qfrederi      ########   odam.nl         */
+/*                                                                            */
+/* ************************************************************************** */
+
 #ifndef LIBFT_H
-# define	LIBFT_H
+# define LIBFT_H
 
 # include <unistd.h>
 # include <stdlib.h>

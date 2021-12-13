@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        ::::::::            */
+/*   ft_split.c                                         :+:    :+:            */
+/*                                                     +:+                    */
+/*   By: qfrederi <qfrederi@student.codam.nl>         +#+                     */
+/*                                                   +#+                      */
+/*   Created: 2021/12/13 16:39:15 by qfrederi      #+#    #+#                 */
+/*   Updated: 2021/12/13 16:39:16 by qfrederi      ########   odam.nl         */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
 static void	free_partial_array(char **result, size_t max_index)
